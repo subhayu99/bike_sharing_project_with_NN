@@ -1,4 +1,4 @@
-# bike_sharing_project_with_NN
+
 # Dependencies
 
 ## Configure and Manage Your Environment with Anaconda
