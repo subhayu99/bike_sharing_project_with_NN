@@ -1,12 +1,12 @@
-#Bike-Sharing-Prediction-with-NeuralNet
+# Bike-Sharing-Prediction-with-NeuralNet
 
 Developed as coursework for Udacity "Deep Learning Fundamentals" Nanodegree. In this project, I built a neural network to predict daily bike rental ridership.
 
-##Further Explanation
+## Further Explanation
 
 The Neural network was built from "scratch", using only NumPy to assist. The goal of this project is to understand what happens behind the neural network before diving deeper into other tools like TensorFlow.
 
-##Results
+## Results
 
 The project meets the specifications, which are:
 
@@ -32,7 +32,7 @@ The number of output nodes is properly selected to solve the desired problem.
 
 The training loss is below 0.09 and the validation loss is below 0.18.
 
-##Conclusion
+## Conclusion
 
 The predictions given by the model are quite accurate. However, the model overestimes bike ridership in December because it hasn't had sufficient holiday season training examples.
 
