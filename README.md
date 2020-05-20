@@ -77,9 +77,9 @@ If you'd like to learn more about version control and using `git` from the comma
 
 ```
 
-git clone https://github.com/udacity/deep-learning-v2-pytorch.git
+https://github.com/subhayu99/bike_sharing_project_with_NN.git
 
-cd deep-learning-v2-pytorch
+cd bike_sharing_project_with_NN
 
 ```
 
@@ -147,7 +147,8 @@ pip install -r requirements.txt
 
 cd
 
-cd deep-learning-v2-pytorch
+cd bike_sharing_project_with_NN
+
 
 jupyter notebook
 
