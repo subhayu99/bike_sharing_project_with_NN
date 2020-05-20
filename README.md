@@ -36,7 +36,7 @@ The training loss is below 0.09 and the validation loss is below 0.18.
 
 The predictions given by the model are quite accurate. However, the model overestimes bike ridership in December because it hasn't had sufficient holiday season training examples.
 
-## Dependencies
+# Dependencies
 
 ## Configure and Manage Your Environment with Anaconda
 
