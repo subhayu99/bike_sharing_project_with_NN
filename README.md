@@ -1,6 +1,6 @@
 # Bike-Sharing-Prediction-with-NeuralNet
 
-Developed as coursework for Udacity "Deep Learning Fundamentals" Nanodegree. In this project, I built a neural network to predict daily bike rental ridership.
+Developed as coursework for Udacity "Deep Learning" Nanodegree. In this project, I built a neural network to predict daily bike rental ridership.
 
 ## Further Explanation
 
@@ -106,7 +106,7 @@ conda install git
 
 ```
 
-If you'd like to learn more about version control and using `git` from the command line, take a look at our [free course: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123).
+If you'd like to learn more about version control and using `git` from the command line, take a look at Udacity's [free course: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123).
 
 **Now, you're ready to create your local environment!**
 
