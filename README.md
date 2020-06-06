@@ -166,7 +166,7 @@ cd bike_sharing_project_with_NN
 
 	```
 
-6. Install a few required pip packages, which are specified in the requirements text file (including OpenCV).
+4. Install a few required pip packages, which are specified in the requirements text file (including OpenCV).
 
 ```
 
@@ -174,7 +174,7 @@ pip install -r requirements.txt
 
 ```
 
-7. That's it!
+5. That's it!
 
 
 
